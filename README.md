@@ -2,7 +2,7 @@
 
 Hey there! 👋 I'm **Mohammed**, a software engineer passionate about **full-stack development** and exploring the world of **Backend, DevOps, Cloud and scalable architecture**.  
 
-- 🔭 I'm currently working on **AI-powered HR web application**
+[comment]: <> ( 🔭 I'm currently working on **AI-powered HR web application**)
 - 🌱 I'm currently learning **GoLang**
 - 👯 I'm looking to collaborate on **Open source projects and innovative web/mobile applications**
 - 💬 Ask me about **Full-stack development and AI integrations**
